@@ -1,0 +1,20 @@
+d:\visual studio 2010\Projects\BaiTapQLBH\bin\Debug\DTO.dll
+d:\visual studio 2010\Projects\BaiTapQLBH\bin\Debug\DTO.pdb
+d:\visual studio 2010\Projects\BaiTapQLBH\DTO\obj\Debug\DTO.dll
+d:\visual studio 2010\Projects\BaiTapQLBH\DTO\obj\Debug\DTO.pdb
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\bin\Debug\DTO.dll
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\bin\Debug\DTO.pdb
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\DTO\obj\Debug\DTO.dll
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Downloads\BaiTapQLBH\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\BaiTapQLBH\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\BaiTapQLBH\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\BaiTapQLBH\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Downloads\BaiTapQLBH\DTO\obj\Debug\DTO.pdb
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\bin\Debug\DTO.dll
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\bin\Debug\DTO.pdb
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\DTO\obj\Debug\DTO.dll
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\DTO\obj\Debug\DTO.pdb

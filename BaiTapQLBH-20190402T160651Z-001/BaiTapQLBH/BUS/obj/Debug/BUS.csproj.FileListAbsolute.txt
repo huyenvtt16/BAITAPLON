@@ -1,0 +1,22 @@
+d:\visual studio 2010\Projects\BaiTapQLBH\bin\Debug\BUS.dll
+d:\visual studio 2010\Projects\BaiTapQLBH\bin\Debug\BUS.pdb
+d:\visual studio 2010\Projects\BaiTapQLBH\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+d:\visual studio 2010\Projects\BaiTapQLBH\BUS\obj\Debug\BUS.dll
+d:\visual studio 2010\Projects\BaiTapQLBH\BUS\obj\Debug\BUS.pdb
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\bin\Debug\BUS.dll
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\bin\Debug\BUS.pdb
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BUS\obj\Debug\BUS.dll
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Downloads\BaiTapQLBH\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\BaiTapQLBH\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\BaiTapQLBH\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\BaiTapQLBH\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Downloads\BaiTapQLBH\BUS\obj\Debug\BUS.pdb
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\bin\Debug\BUS.dll
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\bin\Debug\BUS.pdb
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BUS\obj\Debug\BUS.dll
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BUS\obj\Debug\BUS.pdb

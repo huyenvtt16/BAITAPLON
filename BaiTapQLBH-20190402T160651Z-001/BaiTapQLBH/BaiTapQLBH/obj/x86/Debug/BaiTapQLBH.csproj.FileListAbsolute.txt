@@ -1,0 +1,115 @@
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.csprojResolveAssemblyReference.cache
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDMChatlieu.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDMHang.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmHoaDonBan.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmKhachhang.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmMain.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmNhanVien.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmTimHDBan.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.Properties.Resources.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.csproj.GenerateResource.Cache
+d:\visual studio 2010\Projects\BaiTapQLBH\bin\Debug\BaiTapQLBH.exe
+d:\visual studio 2010\Projects\BaiTapQLBH\bin\Debug\BaiTapQLBH.pdb
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.exe
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.pdb
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmLoad.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmBaoCao.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\RdlCompile.cache
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\RdlCompile.compiled
+d:\visual studio 2010\Projects\BaiTapQLBH\bin\Debug\rptSanPham.rdlc
+d:\visual studio 2010\Projects\BaiTapQLBH\bin\Debug\BaiTapQLBH.exe.config
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDangKyTK.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDangNhap.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDoiMatKhau.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmInHoaDon.resources
+d:\visual studio 2010\Projects\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmHoaDonMua.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\bin\Debug\BaiTapQLBH.exe.config
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.exe
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.pdb
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\bin\Debug\rptSanPham.rdlc
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\bin\Debug\BaiTapQLBH.exe
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\bin\Debug\BaiTapQLBH.pdb
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.csprojResolveAssemblyReference.cache
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmBaoCao.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDangKyTK.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDangNhap.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDMChatlieu.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDMHang.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDoiMatKhau.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmHoaDonBan.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmInHoaDon.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmKhachhang.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmMain.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmNhanVien.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmTimHDBan.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.Properties.Resources.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.csproj.GenerateResource.Cache
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\RdlCompile.cache
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemKH.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemNV.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemChatLieu.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemHang.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmHoaDon.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemHoaDon.resources
+C:\Users\Hiep\Desktop\nothing in there\QLBH\sent\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemChiTietHoaDon.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\bin\Debug\BaiTapQLBH.exe.config
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.exe
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.pdb
+C:\Users\Admin\Downloads\BaiTapQLBH\bin\Debug\rptSanPham.rdlc
+C:\Users\Admin\Downloads\BaiTapQLBH\bin\Debug\BaiTapQLBH.exe
+C:\Users\Admin\Downloads\BaiTapQLBH\bin\Debug\BaiTapQLBH.pdb
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmBaoCao.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDangKyTK.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDangNhap.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDMChatlieu.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDMHang.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDoiMatKhau.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmHoaDon.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmHoaDonBan.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmInHoaDon.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmKhachhang.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmMain.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmNhanVien.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemChatLieu.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemChiTietHoaDon.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemHang.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemHoaDon.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemKH.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemNV.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmTimHDBan.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.Properties.Resources.resources
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\RdlCompile.cache
+C:\Users\Admin\Downloads\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\RdlCompile.compiled
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\bin\Debug\rptSanPham.rdlc
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\bin\Debug\BaiTapQLBH.exe.config
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\bin\Debug\BaiTapQLBH.exe
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\bin\Debug\BaiTapQLBH.pdb
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.csprojAssemblyReference.cache
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmBaoCao.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDangKyTK.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDangNhap.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDMChatlieu.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDMHang.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmDoiMatKhau.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmHoaDon.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmHoaDonBan.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmInHoaDon.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmKhachhang.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmMain.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmNhanVien.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemChatLieu.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemChiTietHoaDon.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemHang.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemHoaDon.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemKH.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmThemNV.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.frmTimHDBan.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.Properties.Resources.resources
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.csproj.GenerateResource.cache
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.csproj.CoreCompileInputs.cache
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.csproj.CopyComplete
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.exe
+C:\Users\ERP-HuyenVTT16\Desktop\BTLon\BaiTapQLBH-20190402T160651Z-001\BaiTapQLBH\BaiTapQLBH\obj\x86\Debug\BaiTapQLBH.pdb
