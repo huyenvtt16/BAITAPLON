@@ -1,0 +1,5 @@
+﻿CREATE PROC Employee
+AS
+BEGIN
+	SELECT * FROM NhanVien
+END

@@ -18,7 +18,7 @@ namespace DTO
         public DateTime NgayBan { get; set; }
         
 
-        public HoaDonDTO(string mahd , string mahang,string man,string makhach ,float dongia,float soluong , float thanhtien,DateTime ngayban) 
+        public HoaDonDTO(string mahd , string mahang, string manv, string makhach ,float dongia,float soluong , float thanhtien,DateTime ngayban) 
         {
             MaHD = mahd;
             MaHang = mahang;
@@ -27,7 +27,7 @@ namespace DTO
             DonGia = dongia;
             
             ThanhTien = thanhtien;
-            MaNhanVien = man;
+            MaNhanVien = manv;
             NgayBan = ngayban;
         }
 

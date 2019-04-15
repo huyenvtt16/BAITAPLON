@@ -1,0 +1,5 @@
+﻿CREATE PROC Customer
+AS
+BEGIN
+SELECT * FROM Khach
+END

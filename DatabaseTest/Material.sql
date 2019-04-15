@@ -1,0 +1,5 @@
+﻿CREATE PROC Material
+AS
+BEGIN
+	SELECT * FROM ChatLieu
+END

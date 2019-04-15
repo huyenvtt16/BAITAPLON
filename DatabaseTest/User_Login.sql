@@ -1,0 +1,5 @@
+﻿CREATE PROC User_Login
+AS
+BEGIN
+	SELECT * FROM Users
+END
